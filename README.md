@@ -18,10 +18,10 @@ Commands used:
 *head chipotle.tsv
 *tail chipotle.tsv
    
-2. There appears to be 1834 order ids. Commands Used:
-*sort chipotle.tsv
-*head chipotle.tsv
-*tail chipotle.tsv
+2. There appears to be 1834 order ids. Commands Used
+**sort chipotle.tsv
+**head chipotle.tsv
+**tail chipotle.tsv
 3. There are 4623 lines in this file. Commands Used:
   a. wc -l chipotle.tsv
 4. Chicken burritos are more popular than steak burritos. Commands Used: 

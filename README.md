@@ -13,9 +13,9 @@ DAT2 Homework Storage
 Optional: Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
 
 ##Answers
-1.This data appears to be a listing of orders with a several descriptive columns. Order_id (pk), quantity, item_name, choice_description, item_price. Commands used:
-  a. head chipotle.tsv
-  b. tail chipotle.tsv
+1.This data appears to be a listing of orders with a several descriptive columns. Order_id (pk), quantity, item_name, choice_description, item_price. Commands used:<>
+a. head chipotle.tsv
+ ** tail chipotle.tsv
    
 2. There appears to be 1834 order ids. Commands Used:
   a. sort chipotle.tsv

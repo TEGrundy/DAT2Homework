@@ -22,4 +22,12 @@ Optional: Use the the command line to discover something "interesting" about the
  * Commands used:
    * head chipotle.tsv
    * tail chipotle.tsv
-2. I 
+2. There appears to be 1834 order ids.
+ * Commands Used:
+  * sort chipotle.tsv
+  * head chipotle.tsv
+  * tail chipotle.tsv
+3. There are 4623 lines in this file.
+ *Commands Used:
+  * wc chipotle.tsv
+  * 
